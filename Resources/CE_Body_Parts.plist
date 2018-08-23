@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>CE_Body_Parts_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{55,442},{40,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{40,51}}</string>
+				<key>sourceSize</key>
+				<string>{40,51}</string>
+			</dict>
+
+			<key>CE_Body_Parts_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{142,382},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,0},{78,78}}</string>
+				<key>sourceSize</key>
+				<string>{79,78}</string>
+			</dict>
+
+			<key>CE_Body_Parts_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,442},{54,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{54,45}}</string>
+				<key>sourceSize</key>
+				<string>{54,45}</string>
+			</dict>
+
+			<key>CE_Body_Parts_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,263},{141,178}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{141,178}}</string>
+				<key>sourceSize</key>
+				<string>{141,178}</string>
+			</dict>
+
+			<key>CE_Body_Parts_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{142,263},{83,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{83,118}}</string>
+				<key>sourceSize</key>
+				<string>{83,118}</string>
+			</dict>
+
+			<key>CE_Body_Parts_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{282,262}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,2},{282,262}}</string>
+				<key>sourceSize</key>
+				<string>{282,264}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,512}</string>
+			<key>textureFileName</key>
+			<string>CE_Body_Parts.png</string>
+			</dict>
+		</dict>
+</plist>

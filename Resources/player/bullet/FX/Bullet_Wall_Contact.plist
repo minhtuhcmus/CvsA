@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Bullet_Wall_Contact_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,193},{33,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{33,44}}</string>
+				<key>sourceSize</key>
+				<string>{33,44}</string>
+			</dict>
+
+			<key>Bullet_Wall_Contact_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{150,188},{45,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{45,61}}</string>
+				<key>sourceSize</key>
+				<string>{45,61}</string>
+			</dict>
+
+			<key>Bullet_Wall_Contact_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,193},{52,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,58}}</string>
+				<key>sourceSize</key>
+				<string>{52,58}</string>
+			</dict>
+
+			<key>Bullet_Wall_Contact_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{90,188},{59,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{59,67}}</string>
+				<key>sourceSize</key>
+				<string>{59,67}</string>
+			</dict>
+
+			<key>Bullet_Wall_Contact_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,103},{89,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{89,89}}</string>
+				<key>sourceSize</key>
+				<string>{89,89}</string>
+			</dict>
+
+			<key>Bullet_Wall_Contact_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{107,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{107,102}}</string>
+				<key>sourceSize</key>
+				<string>{107,102}</string>
+			</dict>
+
+			<key>Bullet_Wall_Contact_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{108,0},{77,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{77,87}}</string>
+				<key>sourceSize</key>
+				<string>{77,87}</string>
+			</dict>
+
+			<key>Bullet_Wall_Contact_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{90,103},{79,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{79,84}}</string>
+				<key>sourceSize</key>
+				<string>{79,84}</string>
+			</dict>
+
+			<key>Bullet_Wall_Contact_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{170,88},{74,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{74,84}}</string>
+				<key>sourceSize</key>
+				<string>{74,84}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{256,256}</string>
+			<key>textureFileName</key>
+			<string>Bullet_Wall_Contact.png</string>
+			</dict>
+		</dict>
+</plist>

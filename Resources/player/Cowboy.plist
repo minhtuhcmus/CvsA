@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Body.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{564,0},{401,325}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{401,325}}</string>
+				<key>sourceSize</key>
+				<string>{401,325}</string>
+			</dict>
+
+			<key>Gun.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{564,326},{317,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{317,140}}</string>
+				<key>sourceSize</key>
+				<string>{317,140}</string>
+			</dict>
+
+			<key>Head.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{563,461}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{563,461}}</string>
+				<key>sourceSize</key>
+				<string>{563,461}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{1024,512}</string>
+			<key>textureFileName</key>
+			<string>Cowboy.png</string>
+			</dict>
+		</dict>
+</plist>

@@ -1,0 +1,571 @@
+{"level1":
+	{
+	"ammo" : 1,
+	"time" : 120,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : 1,
+			"dontRoasted" : -1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level2":
+	{
+	"ammo" : 1,
+	"time" : 120,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : 8, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level3":
+	{
+	"ammo" : 1,
+	"time" : 120,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : 8, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : 1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level4":
+	{
+	"ammo" : 2,
+	"time" : 120,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : 1,
+			"eaten" : -1
+		}
+	},
+"level5":
+	{
+	"ammo" : 3,
+	"time" : 120,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : 9, 
+			"oneShot" : -1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : 1,
+			"eaten" : -1
+		}
+	},
+"level6":
+	{
+	"ammo" : 5,
+	"time" : 120,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 3, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : 1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level7":
+	{
+	"ammo" : 5,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : 1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level8":
+	{
+	"ammo" : 2,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : 1,
+			"killAllEnemies" : 1,
+			"eaten" : -1
+		}
+	},
+"level9":
+	{
+	"ammo" : 2,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : -1,
+			"hitTNT" : 1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level10":
+	{
+	"ammo" : 3,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level11":
+	{
+	"ammo" : 5,
+	"time" : 30,
+	"submissions" : 
+		{
+			"timeToRush" : 25, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level12":
+	{
+	"ammo" : 2,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : 1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : 1
+		}
+	},
+"level13":
+	{
+	"ammo" : 3,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : 1
+		}
+	},
+"level14":
+	{
+	"ammo" : 1,
+	"time" : 10,
+	"submissions" : 
+		{
+			"timeToRush" : 8, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : 1,
+			"dontRoasted" : -1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level15":
+	{	
+	"ammo" : 2,
+	"time" : 60,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : 1,
+			"dontRoasted" : 1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level16":
+	{
+	"ammo" : 3,
+	"time" : 60,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level17":
+	{
+	"ammo" : 1,
+	"time" : 60,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : 5, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level18":
+	{
+	"ammo" : 3,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : 8, 
+			"oneShot" : -1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level19":
+	{
+	"ammo" : 3,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : 9, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level20":
+	{
+	"ammo" : 3,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : 7, 
+			"oneShot" : -1, 
+			"noBouncing" : -1,
+			"dontRoasted" : 1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level21":
+	{
+	"ammo" : 3,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : 1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level22":
+	{
+	"ammo" : 3,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : -1, 
+			"noBouncing" : -1,
+			"dontRoasted" : 1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : 1,
+			"eaten" : -1
+		}
+	},
+"level23":
+	{
+	"ammo" : 3,
+	"time" : 60,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : 5, 
+			"oneShot" : 1, 
+			"noBouncing" : 1,
+			"dontRoasted" : -1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level24":
+	{
+	"ammo" : 3,
+	"time" : 60,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : -1, 
+			"oneShot" : 1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : -1,
+			"eaten" : -1
+		}
+	},
+"level25":
+	{
+	"ammo" : 1,
+	"time" : 60,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : -1, 
+			"bouncesToCount" : -5, 
+			"oneShot" : -1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : 1,
+			"dontHitTNT" : -1,
+			"hitTNT" : 1,
+			"killAllEnemies" : 1,
+			"eaten" : -1
+		}
+	},
+"level26":
+	{
+	"ammo" : 3,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : 5, 
+			"oneShot" : -1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : 1,
+			"eaten" : -1
+		}
+	},
+"level27":
+	{
+	"ammo" : 3,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : 5, 
+			"oneShot" : -1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : 1,
+			"eaten" : -1
+		}
+	},
+"level28":
+	{
+	"ammo" : 3,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : 5, 
+			"oneShot" : -1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : 1,
+			"eaten" : -1
+		}
+	},
+"level29":
+	{
+	"ammo" : 3,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : 5, 
+			"oneShot" : -1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : 1,
+			"eaten" : -1
+		}
+	},
+"level30":
+	{
+	"ammo" : 3,
+	"time" : 90,
+	"submissions" : 
+		{
+			"timeToRush" : -1, 
+			"bulletToCount" : 1, 
+			"bouncesToCount" : 5, 
+			"oneShot" : -1, 
+			"noBouncing" : -1,
+			"dontRoasted" : -1,
+			"dontKnocked" : -1,
+			"dontHitTNT" : -1,
+			"hitTNT" : -1,
+			"killAllEnemies" : 1,
+			"eaten" : -1
+		}
+	}
+}

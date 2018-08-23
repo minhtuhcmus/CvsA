@@ -1,0 +1,1 @@
+Coin_01.png.png 0 0, Coin_02.png.png 50 0, Coin_03.png.png 99 1, Coin_04.png.png 21 55, Coin_05.png.png 50 55, Coin_06.png.png 83 55.

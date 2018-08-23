@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Alien_Body_Parts_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{36,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{36,30}}</string>
+				<key>sourceSize</key>
+				<string>{36,30}</string>
+			</dict>
+
+			<key>Alien_Body_Parts_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,45},{15,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{15,10}}</string>
+				<key>sourceSize</key>
+				<string>{15,10}</string>
+			</dict>
+
+			<key>Alien_Body_Parts_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{22,31},{9,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{9,10}}</string>
+				<key>sourceSize</key>
+				<string>{9,10}</string>
+			</dict>
+
+			<key>Alien_Body_Parts_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,31},{21,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{21,13}}</string>
+				<key>sourceSize</key>
+				<string>{21,13}</string>
+			</dict>
+
+			<key>Alien_Body_Parts_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{31,42},{8,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{8,8}}</string>
+				<key>sourceSize</key>
+				<string>{8,8}</string>
+			</dict>
+
+			<key>Alien_Body_Parts_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{8,56},{7,4}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{7,4}}</string>
+				<key>sourceSize</key>
+				<string>{7,4}</string>
+			</dict>
+
+			<key>Alien_Body_Parts_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,56},{7,4}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{7,4}}</string>
+				<key>sourceSize</key>
+				<string>{7,4}</string>
+			</dict>
+
+			<key>Alien_Body_Parts_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{16,45},{14,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{14,14}}</string>
+				<key>sourceSize</key>
+				<string>{14,14}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{64,64}</string>
+			<key>textureFileName</key>
+			<string>Alien_Body_Parts.png</string>
+			</dict>
+		</dict>
+</plist>

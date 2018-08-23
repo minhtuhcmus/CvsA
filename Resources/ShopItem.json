@@ -1,0 +1,38 @@
+{
+	"item1":
+	{
+		"name" : "Pan",
+		"description" : "abc",
+		"imageName" : "Shop/ItemImage0.png",
+		"price" : 100
+	},
+	"item2":
+	{
+		"name" : "Finger",
+		"description" : "Use to change position of 1 alien",
+		"imageName" : "Shop/Finger.png",
+		"price" : 200
+	},
+	"item3":
+	{
+		"name" : "Hint",
+		"description" : "Use to show tutorial",
+		"imageName" : "Shop/Hint.png",
+		"price" : 500
+	},
+	"item4":
+	{
+		"name" : "Hammer",
+		"description" : "Use to kill 1 alien",
+		"imageName" : "Shop/Hammer.png",
+		"price" : 300
+	},
+	"item5":
+	{
+		"name" : "Pan5",
+		"description" : "qwe",
+		"imageName" : "Shop/ItemImage0.png",
+		"price" : 600
+	}
+
+}

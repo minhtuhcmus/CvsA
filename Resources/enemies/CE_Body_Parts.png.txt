@@ -1,0 +1,1 @@
+CE_Body_Parts_01.png.png 0 0, CE_Body_Parts_02.png.png 0 263, CE_Body_Parts_03.png.png 142 263, CE_Body_Parts_04.png.png 0 442, CE_Body_Parts_05.png.png 55 442, CE_Body_Parts_06.png.png 142 382.

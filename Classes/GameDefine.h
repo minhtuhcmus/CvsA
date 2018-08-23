@@ -1,0 +1,28 @@
+// START :: Tags
+#define BULLET  1 
+#define WALL 2 
+#define ENEMIES 4
+#define ENEMIES_PARTS 8
+#define LAVA 16
+#define ROCK 32
+#define ITEMS_SELECTED 69
+#define TNT_DEFINE 64
+#define TNT_EXPLODE 128
+#define PAN 256
+#define FAKE_BULLET 512
+#define PLAYED_TRIGGER 1024
+#define CANON 2048
+#define CHAINSAW 4096
+#define PORTAL 8192
+// END :: Tags
+
+// START :: MATH
+#define PI 3.1415926535897
+// END :: MATH
+
+// START :: GAME VARIABLES
+#define BULLET_VELOCITY 2000
+#define BULLET_HITS 10
+#define SCORE_EACH_BULLET 1000
+#define EXPLOSION_FORCE 5000
+// END :: GAME VARIABLES

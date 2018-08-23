@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Canon_Gun_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{66,0},{62,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{62,48}}</string>
+				<key>sourceSize</key>
+				<string>{62,48}</string>
+			</dict>
+
+			<key>Canon_Gun_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{126,49},{58,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{58,49}}</string>
+				<key>sourceSize</key>
+				<string>{58,49}</string>
+			</dict>
+
+			<key>Canon_Gun_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{65,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{65,49}}</string>
+				<key>sourceSize</key>
+				<string>{65,49}</string>
+			</dict>
+
+			<key>Canon_Gun_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,50},{62,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{62,49}}</string>
+				<key>sourceSize</key>
+				<string>{62,49}</string>
+			</dict>
+
+			<key>Canon_Gun_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{63,50},{62,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{62,49}}</string>
+				<key>sourceSize</key>
+				<string>{62,49}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{256,128}</string>
+			<key>textureFileName</key>
+			<string>Canon_Gun.png</string>
+			</dict>
+		</dict>
+</plist>
